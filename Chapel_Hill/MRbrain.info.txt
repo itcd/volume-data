@@ -1,0 +1,13 @@
+Description:	Magnetic resonance study of head with skull partially removed
+		to reveal brain.  109-256x256 slices.
+Dimensions:  	z-109  y-256  x-256
+Order:  	z-y-x
+Format:		16-bit integers -- two consecutive bytes make up one binary 
+		integer.
+File size:	14,286,848 bytes
+Data source:	Data taken on the Siemens Magnetom and provided courtesy of
+		Siemens Medical Systems, Inc., Iselin, NJ.  Data edited 
+		(skull removed) by Dr. Julian Rosenman, North Carolina
+		Memorial Hospital.
+
+WARNING: Please read file Announcement for details about byte order.

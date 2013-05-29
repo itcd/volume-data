@@ -1,0 +1,7 @@
+NDims = 3
+DimSize = 181 217 181
+ElementSpacing = 1.0 1.0 1.0
+Position = 0 0 0
+ElementByteOrderMSB = False
+ElementType = MET_SHORT
+ElementDataFile = ICBM_Template.raw

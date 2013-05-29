@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 512 512 360
+ElementType = MET_USHORT
+ElementSpacing = 1.0 1.0 1.0
+ElementByteOrderMSB = True
+ElementDataFile = bunny.raw

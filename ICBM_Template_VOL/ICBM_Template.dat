@@ -1,0 +1,9 @@
+ObjectFileName: ICBM_Template.raw
+TaggedFileName: ICBM_Template_Labels.dat
+Resolution:     181 217 181
+SliceThickness: 1.0 1.0 1.0
+Format:         USHORT
+NbrTags:        57
+ObjectType:     TEXTURE_VOLUME_OBJECT
+ObjectModel:    I
+GridType:       EQUIDISTANT

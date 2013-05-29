@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 256 256 113
+ElementType = MET_USHORT
+ElementSpacing = 1.0 1.0 2.0
+ElementByteOrderMSB = False
+ElementDataFile = CThead.raw

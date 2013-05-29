@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 130 73 128
+ElementType = MET_USHORT
+ElementSpacing = 1.32308 1.31507 1.32813
+ElementByteOrderMSB = False
+ElementDataFile = walnut-transformed.raw
