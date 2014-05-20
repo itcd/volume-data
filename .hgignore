@@ -20,7 +20,7 @@
 
 \.aux$
 \.log$
-\.gz$
+\.synctex.gz$
 \.dvi$
 \.bbl$
 \.blg$
