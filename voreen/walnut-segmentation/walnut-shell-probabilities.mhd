@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 400 296 352
+ElementType = MET_USHORT
+ElementSpacing = 1 1 1
+ElementByteOrderMSB = False
+ElementDataFile = walnut-shell-probabilities.raw

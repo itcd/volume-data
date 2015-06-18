@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 416 416 247
+ElementType = MET_UCHAR
+ElementSpacing = 1.0 1.0 1.0
+ElementByteOrderMSB = False
+ElementDataFile = stagbeetle.raw

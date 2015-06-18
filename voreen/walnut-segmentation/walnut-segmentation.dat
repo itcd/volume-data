@@ -1,0 +1,6 @@
+ObjectFileName:	walnut-segmentation.raw
+Resolution:	400 296 352
+SliceThickness:	1 1 1
+Format:		UCHAR
+ObjectModel:	I
+Modality:	unknown

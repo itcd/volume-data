@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 128 128 128
+ElementType = MET_USHORT
+ElementSpacing = 1.0 1.0 1.0
+ElementByteOrderMSB = False
+ElementDataFile = MRknee.raw
