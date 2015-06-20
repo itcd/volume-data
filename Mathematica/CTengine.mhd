@@ -1,5 +1,5 @@
 NDims = 3
-DimSize = 512 512 110
+DimSize = 256 256 110
 ElementType = MET_UCHAR
 ElementSpacing = 1.0 1.0 1.0
 ElementByteOrderMSB = False

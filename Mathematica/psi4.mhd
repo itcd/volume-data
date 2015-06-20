@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 105 89 83
+ElementType = MET_UCHAR
+ElementSpacing = 1.0 1.0 1.0
+ElementByteOrderMSB = False
+ElementDataFile = psi4.raw
