@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 128 128 128
+ElementType = MET_UCHAR
+ElementSpacing = 1.0 1.0 1.0
+ElementByteOrderMSB = False
+ElementDataFile = MRknee_8bit.raw
