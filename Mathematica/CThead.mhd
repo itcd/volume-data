@@ -1,6 +1,6 @@
 NDims = 3
 DimSize = 256 256 99
 ElementType = MET_UCHAR
-ElementSpacing = 1.0 1.0 1.0
+ElementSpacing = 0.95 1 1.8878
 ElementByteOrderMSB = False
 ElementDataFile = CThead.raw
